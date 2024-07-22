@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **App development**
 
-- 💬 Ask me about **Python,Java**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **arbazshaikh78906@icloud.com**
 
