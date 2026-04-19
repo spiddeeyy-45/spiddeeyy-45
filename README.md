@@ -63,7 +63,7 @@ val arbaz = Developer(
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=arbazshaikh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=spiddeeyy-45&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/><br/>
 
