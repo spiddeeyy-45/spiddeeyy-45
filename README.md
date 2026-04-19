@@ -31,7 +31,7 @@ val arbaz = Developer(
 
 ## 🌐 Connect with Me
 
-<a href="mailto:arbazshaikh78906@icloud.com"><img src="https://img.shields.io/badge/Gmail-arbazshaikh78906%40icloud.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arbaz-shaikh-b82133331?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYLMEE%2Fs5TziP6PcoOAiheg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Arbaz%20Shaikh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arbazshaikh78906@icloud.com"><img src="https://img.shields.io/badge/Gmail-arbazshaikh78906%40icloud.com-EA4335?style=flat-square&logo=mail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arbaz-shaikh-b82133331?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYLMEE%2Fs5TziP6PcoOAiheg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Arbaz%20Shaikh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 ---
 
