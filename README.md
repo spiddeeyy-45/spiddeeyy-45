@@ -59,7 +59,7 @@ val arbaz = Developer(
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arbazshaikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&count_private=true" />&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazshaikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=c9d1d9&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=spiddeeyy-45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=818CF8&text_color=c9d1d9&count_private=true" />&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiddeeyy-45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=c9d1d9&langs_count=6" />
 
 <br/><br/>
 
@@ -67,7 +67,7 @@ val arbaz = Developer(
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arbazshaikh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818CF8&line=818CF8&point=ffffff&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiddeeyy-45&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818CF8&line=818CF8&point=ffffff&area=true" />
 
 </div>
 
