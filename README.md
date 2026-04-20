@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=arbazshaikh&label=Profile+Views&color=818CF8&style=flat-square" /> <img src="https://img.shields.io/github/followers/arbazshaikh?label=Followers&style=flat-square&color=818CF8&labelColor=1e1b4b" />
+<img src="https://komarev.com/ghpvc/?username=arbazshaikh&label=Profile+Views&color=818CF8&style=flat-square" /> <img src="https://img.shields.io/github/followers/spiddeeyy-45?label=Followers&style=flat-square&color=818CF8&labelColor=1e1b4b" />
 
 </div>
 
